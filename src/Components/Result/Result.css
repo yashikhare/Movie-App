@@ -1,0 +1,17 @@
+.resultBox {
+  display: flex;
+  width: 700px;
+  margin-left: 25%;
+  padding: 5%;
+  color: whitesmoke;
+}
+.res{
+    display: flex;
+}
+img{
+    padding-right: 5%;
+}
+.resultChild {
+ 
+  font-size: 24px;
+}
